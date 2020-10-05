@@ -1,6 +1,6 @@
 #include<bits/stdc++.h>
 using namespace std;
-#define MAX 1000007
+#define MAX 10007
 int main()
 {
 	long long int i,j,k=0,a;
